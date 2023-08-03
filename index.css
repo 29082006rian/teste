@@ -23,3 +23,7 @@ img{
     border-radius:80%;
     border:5px greenyellow;
 }
+
+.center{
+    text-align: center;
+}
